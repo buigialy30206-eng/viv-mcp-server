@@ -1,0 +1,26 @@
+{
+  "name": "viv-mcp-server",
+  "version": "1.0.0",
+  "description": "**23 free APIs — now usable by Claude, Cursor, Continue, and any MCP-compatible AI agent.**",
+  "main": "viv-mcp-server.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buigialy30206-eng/viv-mcp-server.git"
+  },
+  "keywords": [
+    "mcp",
+    "steam",
+    "api",
+    "ai-agent"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/buigialy30206-eng/viv-mcp-server/issues"
+  },
+  "homepage": "https://github.com/buigialy30206-eng/viv-mcp-server#readme"
+}
